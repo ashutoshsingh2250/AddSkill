@@ -26,6 +26,7 @@
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./solutions/232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|28 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|32 ms|
+|389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|0 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|16 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./solutions/463.%20Island%20Perimeter.cpp)|148 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|60 ms|
