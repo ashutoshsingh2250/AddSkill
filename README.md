@@ -18,5 +18,6 @@
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|44 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|32 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|8 ms|
+|225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./solutions/225.%20Implement%20Stack%20using%20Queues.cpp)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./solutions/234.%20Palindrome%20Linked%20List.cpp)|28 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[C++](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.cpp)|204 ms|
