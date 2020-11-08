@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./solutions/1.%20Two%20Sum.cpp)|752 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)|52 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|4 ms|
+|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|4 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|156 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|4 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|36 ms|
