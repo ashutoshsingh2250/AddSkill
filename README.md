@@ -23,6 +23,7 @@
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|20 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./solutions/125.%20Valid%20Palindrome.cpp)|4 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|4 ms|
+|146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./solutions/146.%20LRU%20Cache.cpp)|148 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./solutions/147.%20Insertion%20Sort%20List.cpp)|56 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[C++](./solutions/148.%20Sort%20List.cpp)|868 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./solutions/155.%20Min%20Stack.cpp)|28 ms|
