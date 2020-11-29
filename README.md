@@ -47,6 +47,7 @@
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|8 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[C++](./solutions/609.%20Find%20Duplicate%20File%20in%20System.cpp)|124 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|12 ms|
+|687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|176 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|140 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|100 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[C++](./solutions/811.%20Subdomain%20Visit%20Count.cpp)|24 ms|
